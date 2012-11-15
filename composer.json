@@ -1,0 +1,22 @@
+{
+    "name": "aferrandini/urlizer",
+    "type": "library",
+    "description": "Library for urlizer",
+    "keywords": ["url", "urlizer"],
+    "homepage": "https://github.com/aferrandini/urlizer",
+    "license": "MIT",
+    "authors": [
+            {
+                "name": "Ariel Ferrandini",
+                "email": "arielferrandini@gmail.com",
+                "homepage": "http://www.ferrandini.com/"
+            }
+        ],
+    "require": {
+            "php": ">=5.3.2"
+        },
+    "autoload": {
+            "psr-0": { "Ferrandini": "" }
+        },
+    "target-dir": "Ferrandini"
+}
